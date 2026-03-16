@@ -114,9 +114,6 @@ lib/
 
 ---
 
-## Cara Menjalankan
+## Dokumentasi Project
 
-```bash
-flutter pub get
-flutter run -d chrome
-```
+
