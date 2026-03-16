@@ -113,6 +113,7 @@ lib/
 | flutter_dotenv | Menyimpan konfigurasi environment |
 
 ---
-
+Darel Prasetya Fawwaz | 2409116064 | Sistem Informasi B 24
+---
 gabisa up gambar bang mba saya jadikan folder aja
 
