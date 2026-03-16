@@ -114,6 +114,5 @@ lib/
 
 ---
 
-## Dokumentasi Project
-
+gabisa up gambar bang mba saya jadikan folder aja
 
